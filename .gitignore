@@ -1,0 +1,14 @@
+# Large data files — too big for GitHub
+data/*.rds
+data/*.RData
+data/GSE166207/
+data/gse74193_raw.rds
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Temporary files
+*.tmp
+Thumbs.db
